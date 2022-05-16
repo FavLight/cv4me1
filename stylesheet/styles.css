@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#square {
+  width: 20px;
+  height: 20px;
+  background: red;
+}
+
+.gold1 {
+  background: #fff;
+  height: 250px;
+}
+
+.gold1 .prof {
+  margin: 1em 0 0 0.8em;
+}
+
+.gold1 .prof .social2 {
+  background: white;
+}
+
+.gold2 {
+  background: bisque;
+  height: 350px;
+}
+
+.iden {
+  height: 400px;
+  background: bisque;
+  margin: 1.5em;
+}
+
+.iden .pf1 {
+  border-radius: 50%;
+  margin: 2.5em;
+}
+
+.para2 {
+  text-align: center;
+}
+
+.para2 .hr1 {
+  color: red;
+  width: 100px;
+  margin: 20px 10px 10px 75px;
+}
+
+.btn {
+  margin: 25px 2px 0 15px;
+  border-radius: 20%;
+}
+
+.socials1 {
+  background: #fff;
+}
+
+.socials1 .socials2 {
+  margin: 50px 5px 5px 70px;
+}
+
+.socials1 .socials2 .sc {
+  margin: 5px;
+}
+
+.gold2 .hello {
+  padding-top: 310px;
+  padding-left: 20px;
+}
+
+.intro {
+  margin: 20px 30px 40px 30px;
+  text-align: center;
+}
+
+.call {
+  background: bisque;
+  padding: 30px 20px 30px 20px;
+}
+
+.call .sc {
+  margin: 5px;
+}
+
+.footer {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  margin: 20px 0 40px 0;
+}
+
+.gold3 {
+  background: bisque;
+  height: 500px;
+}
+
+.gold3 .prof3 {
+  padding: 1em 0 8px 0.8em;
+  font-size: large;
+  background: #ffffff;
+  margin: 15px 0 0 0;
+}
+
+#square1 {
+  width: 40px;
+  height: 40px;
+  background: red;
+  margin: 60px 30px 0 60px;
+}
+
+#square1 .r1 {
+  margin-left: 50px;
+}
+
+.ex {
+  margin: 15px;
+}
+
+.ex .ex3 {
+  padding: 20px 0 0 70px;
+}
+
+.dw {
+  margin: 0 30px 0 60px;
+}
+
+#square3 {
+  width: 40px;
+  height: 70px;
+  background: red;
+  margin: 60px 30px 0 60px;
+}
+
+#square3 .r3 {
+  margin-left: 50px;
+}
+
+.c1 {
+  margin: 60px 15px 30px 15px;
+  background: #fff;
+}
+
+.c1 .c2 .download1 {
+  padding: 10px 0 10px 80px;
+}
+
+.gold4 {
+  background: bisque;
+  height: 650px;
+}
+
+.gold4 .prof3 {
+  padding: 1em 0 8px 0.8em;
+  font-size: large;
+  background: #ffffff;
+  margin: 15px 0 0 0;
+}
+/*# sourceMappingURL=styles.css.map */
